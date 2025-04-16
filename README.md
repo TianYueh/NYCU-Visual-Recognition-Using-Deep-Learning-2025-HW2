@@ -10,9 +10,11 @@ The first is to generate the bounding box and the class for each picture, the ou
 The second is to generate the predicted numbers according to the result of the first stage.  
 
 ## How to install
-1. Create a virtual environment using conda in python 3.10.  
-```conda create -n vrdlhw2 python=3.10 -y```  
-2. Install the requirements using pip  
+1. Create a virtual environment (Using name cvhw2 for instance) using conda in python 3.10.  
+```conda create -n cvhw2 python=3.10 -y```
+2. Activate the conda environment.
+```conda activate cvhw2```
+3. Install the requirements using pip  
 ```pip install -r requirements.txt```
 
 ## Performance Snapshot
