@@ -16,3 +16,5 @@ The second is to generate the predicted numbers according to the result of the f
 ```pip install -r requirements.txt```
 
 ## Performance Snapshot
+The overall performance is 0.33, and 0.69 for the two tasks :(
+<img width="1152" alt="截圖 2025-04-16 晚上8 45 01" src="https://github.com/user-attachments/assets/5eea022c-d087-4d20-902e-0a90f59f8984" />
